@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_october_icon icon-arrow-up (1)</name>
+   <tag></tag>
+   <elementGuidId>562f780e-b141-45e6-8dcf-3f409d9b7e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[3]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.month2 > thead > tr.caption > th:nth-of-type(3) > span.next > i.icon.icon-arrow-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>15f3cf5f-ac43-4cc6-ba94-ce5aaac47a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-arrow-up</value>
+      <webElementGuid>3bfc09ea-dcf8-44de-8e8d-9302fc967b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departure_flight_date_range&quot;)/div[@class=&quot;date-picker-wrapper single-date  no-shortcuts  no-topbar  inline-wrapper no-gap two-months&quot;]/div[@class=&quot;month-wrapper&quot;]/table[@class=&quot;month2&quot;]/thead[1]/tr[@class=&quot;caption&quot;]/th[3]/span[@class=&quot;next&quot;]/i[@class=&quot;icon icon-arrow-up&quot;]</value>
+      <webElementGuid>283d165a-3eb0-4ba8-a6a1-521821213b58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[3]/span/i</value>
+      <webElementGuid>331eb73c-f638-43a4-a2e1-b5ed53f0ff6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/thead/tr/th[3]/span/i</value>
+      <webElementGuid>fe01b9b3-8ad0-4b0f-8447-51eb1ae17213</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

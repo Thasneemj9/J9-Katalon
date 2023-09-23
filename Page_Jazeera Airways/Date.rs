@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Date</name>
+   <tag></tag>
+   <elementGuidId>3dc76e61-2800-42db-b2ea-cad338763716</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'is-highlighted selected ng-star-inserted']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/bs-datepicker-container/div/div/div/div/bs-days-calendar-view/bs-calendar-layout/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.is-highlighted.selected.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>efaf69e2-fb02-4150-87ab-9153c22da31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-highlighted selected ng-star-inserted</value>
+      <webElementGuid>bd1a0bd6-4624-4985-8c4f-1a824cbf89eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>26d1bb63-8cbf-4cea-b4e1-3adabddc09e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/bs-datepicker-container[@class=&quot;bottom ng-tns-c62-11 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c62-11 theme-green ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c62-11 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c62-11&quot;]/div[@class=&quot;bs-media-container ng-tns-c62-11 ng-star-inserted&quot;]/bs-days-calendar-view[@class=&quot;ng-tns-c62-11 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-body&quot;]/table[@class=&quot;days weeks&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;is-highlighted selected ng-star-inserted&quot;]</value>
+      <webElementGuid>fd652115-7fa7-4c32-aec2-adb906e5ca36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[16]</value>
+      <webElementGuid>89147d55-ead2-4e43-83bb-aeae7f140afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[16]</value>
+      <webElementGuid>dd2416ea-5ad7-4f60-b99a-76352e0dbda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15']/parent::*</value>
+      <webElementGuid>61992b6e-f6f9-4c55-a69d-f862f3a597b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/span</value>
+      <webElementGuid>1a4a1f27-547f-4ea1-8dd9-68bdc398f03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '15' or . = '15')]</value>
+      <webElementGuid>cec3e002-e673-4aa3-a790-99f78c5c9b5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

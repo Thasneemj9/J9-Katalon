@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_october_icon icon-arrow-up</name>
+   <tag></tag>
+   <elementGuidId>d5adfa69-6181-4f9a-b003-89fdd092c69e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departure_flight_search_oneway_range_picker']/div/div/table[2]/thead/tr/th[3]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.month2 > thead > tr.caption > th:nth-of-type(3) > span.next > i.icon.icon-arrow-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>db61e3c2-df31-4b1a-968b-278a59a54839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-arrow-up</value>
+      <webElementGuid>05e0662f-577d-4427-9b2d-96f5884a64d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departure_flight_search_oneway_range_picker&quot;)/div[@class=&quot;date-picker-wrapper single-date  no-shortcuts  no-topbar  inline-wrapper no-gap two-months&quot;]/div[@class=&quot;month-wrapper&quot;]/table[@class=&quot;month2&quot;]/thead[1]/tr[@class=&quot;caption&quot;]/th[3]/span[@class=&quot;next&quot;]/i[@class=&quot;icon icon-arrow-up&quot;]</value>
+      <webElementGuid>f6db9c5a-094f-48aa-9e11-ca5c8e580727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departure_flight_search_oneway_range_picker']/div/div/table[2]/thead/tr/th[3]/span/i</value>
+      <webElementGuid>6dd2b6ce-fb4f-4467-bb97-3bc5e6265d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/thead/tr/th[3]/span/i</value>
+      <webElementGuid>dbb18870-03f8-4304-9e97-88a375bd6152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

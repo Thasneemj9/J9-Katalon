@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last Name_ng-select-container</name>
+   <tag></tag>
+   <elementGuidId>1a53ec45-6192-463f-b512-b822d121e95f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ng-select.passenger-details-dropdownform.contactDetails.ng-select-searchable.ng-select.ng-select-single.ng-untouched.ng-pristine.ng-invalid.ng-select-focused.ng-select-opened.ng-select-bottom > div.ng-select-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contactDetails']/div/div/div/div/div[2]/div/div[2]/div/div/ng-select/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb68fbd7-09d5-4170-b5ca-9009a6471a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-select-container</value>
+      <webElementGuid>ee37a8ec-3f2c-4480-b69f-24d3a80c237f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactDetails&quot;)/div[@class=&quot;card accordion-item ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;collapse show open-always&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;panel-form-wrap cols__alignh-start&quot;]/div[@class=&quot;panel-form&quot;]/div[@class=&quot;form-wrap&quot;]/div[@class=&quot;form-row row&quot;]/div[@class=&quot;col-md-6 dropdown-label country_selectdiv ng-star-inserted&quot;]/div[@class=&quot;form-field float-label-wrapper custom-label addfocuslabel passenger-details-fields focused&quot;]/ng-select[@class=&quot;passenger-details-dropdownform contactDetails ng-select-searchable ng-select ng-select-single ng-untouched ng-pristine ng-invalid ng-select-focused ng-select-opened ng-select-bottom&quot;]/div[@class=&quot;ng-select-container&quot;]</value>
+      <webElementGuid>f8ebb2c7-8793-4889-919b-df275daf6621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contactDetails']/div/div/div/div/div[2]/div/div[2]/div/div/ng-select/div</value>
+      <webElementGuid>0245f72a-39cf-47b6-a7af-d6e929346d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[2]/following::div[4]</value>
+      <webElementGuid>d8d45f3b-bc10-45a6-ac75-6dc254cb0cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[2]/following::div[6]</value>
+      <webElementGuid>71be04b7-42dc-4c58-b6a3-6227b6c5d93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/preceding::div[5]</value>
+      <webElementGuid>c2c9bc78-1901-4937-a0aa-e7bb615fd20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Albania'])[1]/preceding::div[6]</value>
+      <webElementGuid>a83502f5-a7c9-4967-b2a2-1726005a35c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/ng-select/div</value>
+      <webElementGuid>127d7ce5-911e-466e-9f4a-f8c1e3af85ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

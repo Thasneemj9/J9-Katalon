@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RT_DepartureDate_Month2</name>
+   <tag></tag>
+   <elementGuidId>17b380a1-b1f3-4734-a9b5-c119b9b1e711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.month2 > thead > tr.caption > th.month-name > div.month-element</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9525139-35fb-4813-9706-f1be44f252f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>month-element</value>
+      <webElementGuid>2013f77a-27bf-4f09-b590-76826c020bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>october</value>
+      <webElementGuid>bc3a4792-c53c-4d08-b101-f0013e03e306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departure_flight_date_range&quot;)/div[@class=&quot;date-picker-wrapper single-date  no-shortcuts  no-topbar  inline-wrapper no-gap two-months&quot;]/div[@class=&quot;month-wrapper&quot;]/table[@class=&quot;month2&quot;]/thead[1]/tr[@class=&quot;caption&quot;]/th[@class=&quot;month-name&quot;]/div[@class=&quot;month-element&quot;]</value>
+      <webElementGuid>caca5eeb-71e8-43da-b67b-7d53247a2a13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[2]/div</value>
+      <webElementGuid>22cd68b2-e95e-42e2-8069-5a680a863a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sat'])[1]/following::div[120]</value>
+      <webElementGuid>4ca6b452-674b-4133-8436-ed243628496f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fri'])[1]/following::div[120]</value>
+      <webElementGuid>bd8f0d0d-e3fc-4e69-b4ec-d1e106538fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sun'])[2]/preceding::div[2]</value>
+      <webElementGuid>e2df99b3-c49a-4eeb-ba64-3574275399af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mon'])[2]/preceding::div[2]</value>
+      <webElementGuid>372e4158-c7d0-4847-8762-83548d29035d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='october']/parent::*</value>
+      <webElementGuid>3e7e074c-d28f-45de-bc69-68b3ee6dbbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/thead/tr/th[2]/div</value>
+      <webElementGuid>c61b7560-9f7e-4f30-bb83-5208e4089684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'october' or . = 'october')]</value>
+      <webElementGuid>04b91c07-f424-4131-8bf6-3cb8b692a044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

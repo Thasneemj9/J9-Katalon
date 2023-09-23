@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RT_DepartureDate_Year2</name>
+   <tag></tag>
+   <elementGuidId>e256b829-df55-4e7f-b6d2-f15c8812bb3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>866b31ba-df62-49ad-a558-da36efc9d55a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>month-element</value>
+      <webElementGuid>eeeb814f-6b46-4b14-be4a-a4e3d03a4aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023</value>
+      <webElementGuid>06098713-ee7a-4f29-a76e-0e2ff39590d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departure_flight_date_range&quot;)/div[@class=&quot;date-picker-wrapper single-date  no-shortcuts  no-topbar  inline-wrapper no-gap two-months&quot;]/div[@class=&quot;month-wrapper&quot;]/table[@class=&quot;month2&quot;]/thead[1]/tr[@class=&quot;caption&quot;]/th[@class=&quot;month-name&quot;]/div[@class=&quot;month-element&quot;]</value>
+      <webElementGuid>f8a065b7-2d01-4f60-8de6-d01fa765af2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departure_flight_date_range']/div/div/table[2]/thead/tr/th[2]/div[2]</value>
+      <webElementGuid>282eb917-dfaa-47e7-9291-499e39d959d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='october'])[1]/following::div[1]</value>
+      <webElementGuid>61ac8acb-1c78-46b4-b084-61eb38e34e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sat'])[1]/following::div[121]</value>
+      <webElementGuid>bbdc082c-e8ea-498a-980c-6ef0b0028599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sun'])[2]/preceding::div[1]</value>
+      <webElementGuid>a8a5bc51-c9db-4d96-800d-3dbf26c48f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mon'])[2]/preceding::div[1]</value>
+      <webElementGuid>e2346272-2f62-4262-86fb-7445a17b6a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/thead/tr/th[2]/div[2]</value>
+      <webElementGuid>ca0027b1-bc21-461d-9c87-ab5e1e61c6ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2023' or . = '2023')]</value>
+      <webElementGuid>6be6ec80-54b5-4e44-a369-36da752be6d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
